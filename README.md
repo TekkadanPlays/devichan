@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 
 
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -17,32 +16,39 @@
 [![MIT License][license-shield]][license-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/tekkadanplays/nchan">
+  <a href="https://github.com/dead-guru/devichan">
     <img src="https://i.imgur.com/pzQwvyq.gif" alt="Logo" width="80" height="80">
   </a>+
-    <a href="https://github.com/tekkadanplays/nchan">
+    <a href="https://github.com/nostr-protocol/nostr">
     <img src="https://github.com/mbarulli/nostr-logo/blob/main/PNG/nostr-icon-white-256x256.png" alt="Logo" width="80" height="80">
   </a>
   
 <h3 align="center">nostrchan</h3>
 
   <p align="center">
-    nChan is a WIP imageboard that uses Nostr as an identity layer. 
-    <br />
+    nChan is a WIP imageboard that uses <a href="https://github.com/nostr-protocol/nostr"><strong>Nostr</strong></a> as an identity layer. 
+    <br /><br />
     <a href="https://github.com/dead-guru/devichan"><strong>Based on DeViChan. »</strong></a>
   </p>
 </div>
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [ ] Figure out how to deploy Devichan
+- [ ] Integrate support for NIP-07 authentication
+- [ ] Cloak IP and hash ip to db
+- [ ] migrate to php 8.2
+
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the GNU General Public Licens. See `LICENSE.md` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
