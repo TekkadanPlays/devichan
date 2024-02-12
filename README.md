@@ -21,10 +21,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/dead-guru/devichan">
+  <a href="https://github.com/tekkadanplays/nchan">
     <img src="https://i.imgur.com/pzQwvyq.gif" alt="Logo" width="80" height="80">
   </a>+
-    <a href="https://github.com/dead-guru/devichan">
+    <a href="https://github.com/tekkadanplays/nchan">
     <img src="https://github.com/mbarulli/nostr-logo/blob/main/PNG/nostr-icon-white-256x256.png" alt="Logo" width="80" height="80">
   </a>
   
@@ -47,14 +47,14 @@ Distributed under the GNU General Public Licens. See `LICENSE.md` for more infor
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/dead-guru/devichan.svg?style=for-the-badge
-[contributors-url]: https://github.com/dead-guru/devichan/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dead-guru/devichan.svg?style=for-the-badge
-[forks-url]: https://github.com/dead-guru/devichan/network/members
-[stars-shield]: https://img.shields.io/github/stars/dead-guru/devichan.svg?style=for-the-badge
-[stars-url]: https://github.com/dead-guru/devichan/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dead-guru/devichan.svg?style=for-the-badge
-[issues-url]: https://github.com/dead-guru/devichan/issues
+[contributors-shield]: https://img.shields.io/github/contributors/tekkadanplays/nchan.svg?style=for-the-badge
+[contributors-url]: https://github.com/tekkadanplays/nchan/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/tekkadanplays/nchan.svg?style=for-the-badge
+[forks-url]: https://github.com/tekkadanplays/nchan/network/members
+[stars-shield]: https://img.shields.io/github/stars/tekkadanplays/nchan.svg?style=for-the-badge
+[stars-url]: https://github.com/tekkadanplays/nchan/stargazers
+[issues-shield]: https://img.shields.io/github/issues/tekkadanplays/nchan.svg?style=for-the-badge
+[issues-url]: https://github.com/tekkadanplays/nchan/issues
 [license-shield]: https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge
-[license-url]: https://github.com/dead-guru/devichan/blob/master/LICENSE.txt
+[license-url]: https://github.com/tekkadanplays/nchan/blob/master/LICENSE.txt
 [product-screenshot]: https://user-images.githubusercontent.com/1472664/211690585-1732c076-4889-447f-88ff-8912b18b4a05.png
